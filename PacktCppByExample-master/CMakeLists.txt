@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.11 FATAL_ERROR)
+
+project(CppByExample)
+
+add_subdirectory(1_3_Basic_Cpp_Syntax)
+add_subdirectory(2_Virtual_Die)
+add_subdirectory(3_Data_Algorithms)
+add_subdirectory(4_Classes_Structures)
+add_subdirectory(5_Library_Management)
+add_subdirectory(6_First_GUI)
+add_subdirectory(7_Text_Editor)
